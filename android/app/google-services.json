@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877030615042",
+    "project_id": "xpdf-dfba1",
+    "storage_bucket": "xpdf-dfba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877030615042:android:3babdd01e859fc7b1bdf1b",
+        "android_client_info": {
+          "package_name": "com.example.xpdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fNGhQnIW_FXzom8VSGdvjd8-Xd74U7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
